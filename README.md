@@ -1,4 +1,4 @@
-**## Features
+## Features
 
 - Real-time memory usage monitoring
 - Global variable tracking
